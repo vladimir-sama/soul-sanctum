@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Luna 7B",
+        "file": "luna-ai-llama2-uncensored.Q4_0.gguf",
+        "link": "https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGUF"
+    },
+    {
+        "name": "Wizardlm 7B",
+        "file": "wizardlm-7b-v1.0-uncensored.Q4_0.gguf",
+        "link": "https://huggingface.co/TheBloke/WizardLM-7B-V1.0-Uncensored-GGUF"
+    }
+]
